@@ -1,2 +1,6 @@
-# KotlinCodingInAndroid
-My work on the Udemy course
+# School HR Administration
+
+TO DO list:
+
+- Unit Tests
+- Detailed Design w/ plantuml
